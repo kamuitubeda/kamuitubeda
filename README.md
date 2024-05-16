@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad</h1>
 
-<h3 align="center">A passionate web developer from Indonesia</h3>
-
 - 🌱 I’m currently learning **Framework7, Supabase, OpenAI, and Flutter**
 
 - 💬 Ask me about **PHP, Laravel, WordPress, SQL**
